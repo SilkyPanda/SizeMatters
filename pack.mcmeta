@@ -1,0 +1,15 @@
+{
+  "id": "SizeMatters",
+  "pack": {
+    "pack_format": 94,
+    "max_format": 94,
+    "min_format": 94,
+
+    "description": [
+      {
+        "text": "Scales all mobs to their real life counter part with in-built randomness!",
+        "color": "#CB4BFF"
+      }
+    ]
+  }
+}
