@@ -37,7 +37,7 @@ To enable scaling for modded mobs:
 
 Want to make Creepers massive or Chickens microscopic? You can easily change the scaling rules!
 
-1. Open `data/scale/function/process.mcfunction` in any text editor.
+1. Open `data/sizematters/function/process.mcfunction` in any text editor.
 2. Find the mob you want to edit. The code looks like this:
    ```mcfunction
    execute if entity @s[type=cow] store result storage scale:macro scale double 0.01 run random value 95..110
